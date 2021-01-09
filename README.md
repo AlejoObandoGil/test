@@ -1,2 +1,2 @@
 # test
-repositorio para realizar pruebas basicas.
+repositorio para realizar pruebas.
